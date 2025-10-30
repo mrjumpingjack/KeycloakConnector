@@ -3,6 +3,14 @@
   "type": "library",
   "description": "Keycloak Connect für PHP",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Christoph Bruns",
+      "email": "christoph.bruns@ananasexpress.org",
+      "homepage": "https://mrjumpingjack.de",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": "^8.0",
     "league/oauth2-client": "^2.7",
